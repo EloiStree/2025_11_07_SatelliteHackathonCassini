@@ -42,7 +42,17 @@ https://tessadem.com/elevation-api
 
 This company have a nice price for an api that give grid of height on a gps coordinate for 12e (and have an raw offline version on request)   
 https://en-us.topographic-map.com/world  
-  
+
+
+
+Paladin cost per ammunition and gaz move  
+https://chatgpt.com/s/t_690a76e4bbf88191bb3a98dd6444b105  
+500 liter for 344 km with a 147L/100km   
+Give a 200-300$ per 100km   
+With ammunition going fron 1000-3000$  
+From GPT estimation. Good information for the Artillery DOS XR game.  
+Because it would be fun to make a score based on cost ( when surviving)  
+And reload time of ammunition/gaz based on given allowed cost per seconds.  
 
 ----------------------
 
