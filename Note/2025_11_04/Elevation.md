@@ -13,6 +13,19 @@ Check for export 3D:
   - https://youtu.be/yYWdxExabHo?t=286
 
 
+
+https://browser.dataspace.copernicus.eu/?zoom=16&lat=50.39974&lng=5.60721&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX18HO7rWc4us5GEI0w6fYcJ4w3qpjAE1pgzkwXA9E%2Bh5E9dz48opveS8Aq5R53yI%2BeU5Yn4bUxMzyjjTkxTHeW5Qtppdezzwnr04us362vOoHSY1BSUbwtBv&datasetId=S2_L2A_CDAS&fromTime=2025-11-04T00%3A00%3A00.000Z&toTime=2025-11-04T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR
+
+
+https://browser.dataspace.copernicus.eu/?zoom=13&lat=48.29821&lng=37.2167&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BPob2Xf2FMjPbK3VN3U6SwlBk%2FzXamSktX4nfJjzopx4U%2BQF9v2ca7ft6YwmhcZT3UvcGuXejjB3owWw53V7sQXaqTQZqXmEcou5dh6KmxHfIBq%2BJsoEUU&datasetId=S2_L2A_CDAS
+
+https://www.earthdata.nasa.gov/topics/land-surface/digital-elevation-terrain-model-dem
+
+if you dont want to go in China one day of your life.
+We can try to make a game around defence of this:
+<img width="773" height="717" alt="image" src="https://github.com/user-attachments/assets/1b0ac038-a73e-4b99-bbda-09dfb4ef846b" />
+
+
 # GPT
 
 
