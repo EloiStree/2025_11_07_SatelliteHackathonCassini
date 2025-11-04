@@ -30,6 +30,12 @@ We can try to make a game around defence of this:
 https://www.arcgis.com/apps/Profile/index.html?appid=f0a2a2a3e1964129b22c715e31282f6c
 [<img width="1920" height="1152" alt="image" src="https://github.com/user-attachments/assets/291423bb-c47a-4c0d-a741-c3a2c491fcb7" />](https://www.arcgis.com/apps/Profile/index.html?appid=f0a2a2a3e1964129b22c715e31282f6c)
 
+
+
+Is there a offline api with Google Earth for path elevation ?
+<img width="1848" height="1108" alt="image" src="https://github.com/user-attachments/assets/c4d20de9-7fe4-4013-b3fd-3ca1fcaa04b8" />
+
+
 # GPT
 
 
