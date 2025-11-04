@@ -40,9 +40,9 @@ Is there a offline api with Google Earth for path elevation ?
 [<img width="1596" height="1023" alt="image" src="https://github.com/user-attachments/assets/7d6e79a7-1535-46ff-898b-dde6f46005ae" />](https://tessadem.com/elevation-api)
 https://tessadem.com/elevation-api
 
-
-https://en-us.topographic-map.com/world
-
+This company have a nice price for an api that give grid of height on a gps coordinate for 12e (and have an raw offline version on request)   
+https://en-us.topographic-map.com/world  
+  
 
 ----------------------
 
