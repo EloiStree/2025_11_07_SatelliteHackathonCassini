@@ -1,10 +1,16 @@
 Public API:
 
-https://api.open-elevation.com/api/v1/lookup?locations=41.161758,-8.583933
-https://github.com/Jorl17/open-elevation/blob/master/docs/api.md
-Install it https://github.com/Jorl17/open-elevation/blob/master/docs/host-your-own.md
+Public API: https://api.open-elevation.com/api/v1/lookup?locations=41.161758,-8.583933
+Doc https://github.com/Jorl17/open-elevation/blob/master/docs/api.md
+Install it: https://github.com/Jorl17/open-elevation/blob/master/docs/host-your-own.md
+
+SRTM of the world:https://srtm.csi.cgiar.org/disclaimer
+Shuttle Radar Topography Mission (SRTM)
 
 
+Check for export 3D:
+- https://ers.cr.usgs.gov/login
+  - https://youtu.be/yYWdxExabHo?t=286
 
 
 # GPT
