@@ -26,6 +26,10 @@ We can try to make a game around defence of this:
 <img width="773" height="717" alt="image" src="https://github.com/user-attachments/assets/1b0ac038-a73e-4b99-bbda-09dfb4ef846b" />
 
 
+
+https://www.arcgis.com/apps/Profile/index.html?appid=f0a2a2a3e1964129b22c715e31282f6c
+[<img width="1920" height="1152" alt="image" src="https://github.com/user-attachments/assets/291423bb-c47a-4c0d-a741-c3a2c491fcb7" />](https://www.arcgis.com/apps/Profile/index.html?appid=f0a2a2a3e1964129b22c715e31282f6c)
+
 # GPT
 
 
