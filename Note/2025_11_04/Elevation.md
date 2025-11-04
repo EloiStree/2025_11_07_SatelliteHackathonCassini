@@ -1,4 +1,15 @@
+Public API:
+
+https://api.open-elevation.com/api/v1/lookup?locations=41.161758,-8.583933
+https://github.com/Jorl17/open-elevation/blob/master/docs/api.md
+Install it https://github.com/Jorl17/open-elevation/blob/master/docs/host-your-own.md
+
+
+
+
 # GPT
+
+
 
 Got it 👍 — you’re looking for an **API that returns the elevation (height above sea level)** for a given GPS location (latitude and longitude).
 
